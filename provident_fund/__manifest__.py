@@ -4,7 +4,7 @@
     'version': "16.0.0.1",
     'summary': """Depost withdraw employee's provident fund easily""",
     'description': """Deposit Employee's PF from Monthly payroll and ask for withdrwal of total balance in percent""",
-    'author': "Tekle YItayew",
+    'author': "Tekle Yitayew",
     'company': "Odoo Ethiopia",
     'category': 'Human resource',
     'depends': ['base_setup','hr','om_hr_payroll'],
