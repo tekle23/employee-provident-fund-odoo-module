@@ -1,10 +1,10 @@
 
 {
-    'name': "Ethiopian provident Fund",
+    'name': "Ethiopian provident fund",
     'version': "16.0.0.1",
-    'summary': """ Ethiopian employee provident fund""",
-    'description': """Depost from bEthiopian employee provident fund""",
-    'author': "Tekle YItayew",
+    'summary': """Deposit withdraw employee's provident fund easily""",
+    'description': """Deposit Employee's PF from Monthly payroll and ask for withdrwal of total balance in percent""",
+    'author': "Tekle Yitayew",
     'company': "Odoo Ethiopia",
     'category': 'Human resource',
     'depends': ['base_setup','hr','om_hr_payroll'],
