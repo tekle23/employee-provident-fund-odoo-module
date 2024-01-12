@@ -25,5 +25,5 @@
     'license': "AGPL-3",
     'installable': True,
     'application': True,
-    # 'icon': 'static/description/icon/icon.png',
+    'images': ['static/description/banner.jpg'],
 }
